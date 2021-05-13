@@ -30,9 +30,11 @@ Names are not listed by amount of contribution, but alphabetically (or at least 
 - canzi-teacher, 蚕子 (Chinese Simplified)
 - Daniel Mathiot (French)
 - Henrik Falk (Danish)
+- Jxhnny Ut8h (Russian) 
 - k-andzhanovskii, Константин Анджановский (Russian)
 - lisachev, Сергей Лисачев (Russian)
 - mafsi, (Patrick Danilevici) (Română)
+- taksas, 中山 拓海 (Japanese)
 - VKondakoff, Валерий Кондаков (Russian)
 - yo-goto, ぱだわん (Japanese)
 
